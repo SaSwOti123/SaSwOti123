@@ -1,16 +1,16 @@
-### Hi there 👋
+## My name is Saswoti Rout 👋
 
-<!--
+#### I am interest in Business and Data Analysis for career. Aim to develop my skills in advanced data science techniques.
 **SaSwOti123/SaSwOti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills:
+*SQL
+*Python
+*Ms-Excel
+*Power BI
+*Tableau
+*MS-PowerPoint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact
+![Linkedin-icon]
