@@ -3,7 +3,7 @@
 #### I am interest in Business and Data Analysis for career. Aim to develop my skills in advanced data science techniques.
 
 
-Skills:
+#****Skills:
 
 *SQL
 *Python
@@ -14,6 +14,7 @@ Skills:
 
 
 ### Contact
-www.linkedin.com/in/saswoti-rout-334775185
+![image](https://user-images.githubusercontent.com/128281246/226623087-c6e1d0cb-fa24-4aac-af5b-d74e53db0673.png)www.linkedin.com/in/saswoti-rout-334775185
+
 
 
