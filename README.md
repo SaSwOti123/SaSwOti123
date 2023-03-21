@@ -14,7 +14,7 @@
 
 
 ### Contact
-![Linkedin-icon](https://user-images.githubusercontent.com/58501537/140074126-2a9c2c61-e5df-45c2-9413-ecelefd836f3.png) www.linkedin.com/in/saswoti-rout-334775185
+![image](https://user-images.githubusercontent.com/128281246/226629107-4c73b4a4-92d8-4783-9f61-7ecac11aab8f.png)  www.linkedin.com/in/saswoti-rout-334775185
 
 
 
